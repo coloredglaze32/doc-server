@@ -16,7 +16,7 @@ from FlagEmbedding import FlagModel
 基本设置
 """
 
-API_KEY = "sk-6a9af15ccc8e4cddb24ed8d1aac55bc9"
+API_KEY = "Your_api_key"
 """LLM模型 API Key"""
 
 LOAD_PATH = "./fileStorage"
