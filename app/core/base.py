@@ -9,8 +9,7 @@ from typing import List
 from langchain_core.embeddings import Embeddings
 from FlagEmbedding import FlagModel
 
-# import os
-# os.environ["DASHSCOPE_API_KEY"] = "sk-6a9af15ccc8e4cddb24ed8d1aac55bc9"
+
 
 """
 基本设置
